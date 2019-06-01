@@ -1,0 +1,30 @@
+{
+  "name": "owjs",
+  "version": "0.0.1",
+  "description": "A transpiler for a javascript based language to the overwatch workshop script",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivan94/owjs.git"
+  },
+  "keywords": [
+    "overwatch",
+    "script",
+    "workshop",
+    "transpiler"
+  ],
+  "author": "Ivan Fenandes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivan94/owjs/issues"
+  },
+  "homepage": "https://github.com/ivan94/owjs#readme",
+  "dependencies": {
+    "acorn": "^6.1.1",
+    "acorn-walk": "^6.1.1"
+  }
+}
