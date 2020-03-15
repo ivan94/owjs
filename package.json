@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/ivan94/owjs#readme",
   "dependencies": {
-    "acorn": "^6.1.1",
+    "acorn": "^6.4.1",
     "acorn-walk": "^6.1.1"
   }
 }
